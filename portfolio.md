@@ -43,10 +43,10 @@
 
 ## VI. OVER ALL
 ---
-### GIT
+### 1. GIT
 - [git 기본](https://github.com/CQ-01/Git/blob/master/Git_basic.md)
 - [git 브랜치](https://github.com/CQ-01/Git/blob/master/Git_branch.md)
 - [git 설정](https://github.com/CQ-01/Git/blob/master/Git_setting.md)
-### ㅎㅎㅎ
+### 2. 기타
 - [마크다운](https://github.com/CQ-01/Git/blob/master/Markdown.md)
 - [취업정보](https://github.com/CQ-01/Git/blob/master/recruit.md)
