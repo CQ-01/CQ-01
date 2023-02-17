@@ -37,4 +37,16 @@
 - [CSS element](https://github.com/CQ-01/Front_end/blob/master/html_css/css_ele.md)
 - [JS element](https://github.com/CQ-01/Front_end/blob/master/js/js_ele.md)
 - [JS basic](https://github.com/CQ-01/Front_end/blob/master/js/js_basic_sort.md)
+
 ### 2. Back_end
+<br/>
+
+## VI. OVER ALL
+---
+### GIT
+- [git 기본](https://github.com/CQ-01/Git/blob/master/Git_basic.md)
+- [git 브랜치](https://github.com/CQ-01/Git/blob/master/Git_branch.md)
+- [git 설정](https://github.com/CQ-01/Git/blob/master/Git_setting.md)
+### ㅎㅎㅎ
+- [마크다운](https://github.com/CQ-01/Git/blob/master/Markdown.md)
+- [취업정보](https://github.com/CQ-01/Git/blob/master/recruit.md)
